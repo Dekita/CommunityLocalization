@@ -1,0 +1,16 @@
+{
+  "name": "hogwarts-legacy-community-localization-table",
+  "version": "1.0.0",
+  "description": "A simple script to create a custom localization mod containing all localization used by various mods in the community",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "DekitaRPG@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "json-stringify-pretty-compact": "^3.0.0"
+  }
+}
+  
